@@ -3,7 +3,7 @@ This is FINRA RESTful API Testing with Java using Rest Assured library
 
 Here are the steps to run the test suite-
 
-## Using ide Eclipse/ intellij
+## Using Import in Eclipse/ intellij
 
 * Import Project into eclipse as Maven project.
 * Select and right click on file finraTestNg.xml
