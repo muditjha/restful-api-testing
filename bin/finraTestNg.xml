@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAllFinra">
+
+    <test name="finra">
+        <classes>
+            <class name="ApiMethodsTests" />
+        </classes>
+    </test>
+</suite>
